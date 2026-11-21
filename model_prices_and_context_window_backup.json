@@ -48425,5 +48425,39 @@
         "supported_endpoints": [
             "/v1/audio/speech"
         ]
+    },
+    "elevenlabs/scribe_v3_live": {
+        "input_cost_per_second": 6.111111111111111e-05,
+        "litellm_provider": "elevenlabs",
+        "mode": "audio_transcription",
+        "source": "https://elevenlabs.io/pricing/api",
+        "supported_modalities": [
+            "audio"
+        ],
+        "supported_output_modalities": [
+            "text"
+        ],
+        "supports_audio_input": true,
+        "metadata": {
+            "calculation": "$0.22/hour realtime = $0.0000611 per second",
+            "notes": "ElevenLabs Scribe v3 Live realtime WebSocket STT. Base rate only: keyterm prompting (+$0.08/hour) is not included"
+        }
+    },
+    "livekit/openai/gpt-4.1-mini": {
+        "cache_read_input_token_cost": 1e-07,
+        "input_cost_per_token": 4e-07,
+        "litellm_provider": "livekit",
+        "max_input_tokens": 1047576,
+        "max_output_tokens": 32768,
+        "max_tokens": 32768,
+        "mode": "chat",
+        "output_cost_per_token": 1.6e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_parallel_function_calling": true,
+        "supports_prompt_caching": true,
+        "supports_response_schema": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
     }
 }
