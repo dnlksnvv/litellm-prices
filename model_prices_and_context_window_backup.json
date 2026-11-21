@@ -48443,20 +48443,2702 @@
             "notes": "ElevenLabs Scribe v3 Live realtime WebSocket STT. Base rate only: keyterm prompting (+$0.08/hour) is not included"
         }
     },
+    "livekit/meta/muse-spark-1.3": {
+        "cache_read_input_token_cost": 1.5e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "meta",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4.25e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/meta/meta/muse-spark-1.3": {
+        "cache_read_input_token_cost": 1.5e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "meta",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4.25e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/meta/muse-wonder-1.0": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "meta",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/meta/meta/muse-wonder-1.0": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "meta",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/deepseek-ai/deepseek-v3": {
+        "input_cost_per_token": 7.7e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 7.7e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/baseten/deepseek-ai/deepseek-v3": {
+        "input_cost_per_token": 7.7e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 7.7e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/deepseek-ai/deepseek-v3.1": {
+        "cache_read_input_token_cost": 2.5e-07,
+        "input_cost_per_token": 5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/baseten/deepseek-ai/deepseek-v3.1": {
+        "cache_read_input_token_cost": 2.5e-07,
+        "input_cost_per_token": 5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/deepseek-ai/deepseek-v3.2": {
+        "input_cost_per_token": 7.7e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "deepseek",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 7.7e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/deepseek/deepseek-ai/deepseek-v3.2": {
+        "input_cost_per_token": 7.7e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "deepseek",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 7.7e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/deepseek-ai/deepseek-v4-pro": {
+        "cache_read_input_token_cost": 2.2e-08,
+        "input_cost_per_token": 6.6e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "vercel",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.98e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/vercel/deepseek-ai/deepseek-v4-pro": {
+        "cache_read_input_token_cost": 2.2e-08,
+        "input_cost_per_token": 6.6e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "vercel",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.98e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/deepseek-ai/deepseek-v4.1-flash": {
+        "cache_read_input_token_cost": 7e-09,
+        "input_cost_per_token": 3e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/baseten/deepseek-ai/deepseek-v4.1-flash": {
+        "cache_read_input_token_cost": 7e-09,
+        "input_cost_per_token": 3e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/deepseek-ai/deepseek-v4.1-flash-1017": {
+        "cache_read_input_token_cost": 7e-09,
+        "input_cost_per_token": 3e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/baseten/deepseek-ai/deepseek-v4.1-flash-1017": {
+        "cache_read_input_token_cost": 7e-09,
+        "input_cost_per_token": 3e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-2.0-flash": {
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-2.0-flash": {
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-2.0-flash-lite": {
+        "input_cost_per_token": 7.5e-08,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-2.0-flash-lite": {
+        "input_cost_per_token": 7.5e-08,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-2.5-flash": {
+        "cache_read_input_token_cost": 3e-08,
+        "cache_read_input_token_cost_priority": 5.4e-08,
+        "input_cost_per_token": 3e-07,
+        "input_cost_per_token_priority": 5.4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "output_cost_per_token_priority": 4.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-2.5-flash": {
+        "cache_read_input_token_cost": 3e-08,
+        "cache_read_input_token_cost_priority": 5.4e-08,
+        "input_cost_per_token": 3e-07,
+        "input_cost_per_token_priority": 5.4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "output_cost_per_token_priority": 4.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-2.5-flash-lite": {
+        "cache_read_input_token_cost": 1e-08,
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-2.5-flash-lite": {
+        "cache_read_input_token_cost": 1e-08,
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-2.5-pro": {
+        "cache_read_input_token_cost": 2.5e-07,
+        "input_cost_per_token": 2.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.5e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-2.5-pro": {
+        "cache_read_input_token_cost": 2.5e-07,
+        "input_cost_per_token": 2.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.5e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-3-flash-preview": {
+        "cache_read_input_token_cost": 5e-08,
+        "cache_read_input_token_cost_priority": 9e-08,
+        "input_cost_per_token": 5e-07,
+        "input_cost_per_token_priority": 9e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3e-06,
+        "output_cost_per_token_priority": 5.4e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-3-flash-preview": {
+        "cache_read_input_token_cost": 5e-08,
+        "cache_read_input_token_cost_priority": 9e-08,
+        "input_cost_per_token": 5e-07,
+        "input_cost_per_token_priority": 9e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3e-06,
+        "output_cost_per_token_priority": 5.4e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-3-pro-preview": {
+        "cache_read_input_token_cost": 4e-07,
+        "input_cost_per_token": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.8e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-3-pro-preview": {
+        "cache_read_input_token_cost": 4e-07,
+        "input_cost_per_token": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.8e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-3.1-flash-lite": {
+        "cache_read_input_token_cost": 2.5e-08,
+        "cache_read_input_token_cost_priority": 4.5e-08,
+        "input_cost_per_token": 2.5e-07,
+        "input_cost_per_token_priority": 4.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.5e-06,
+        "output_cost_per_token_priority": 2.7e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-3.1-flash-lite": {
+        "cache_read_input_token_cost": 2.5e-08,
+        "cache_read_input_token_cost_priority": 4.5e-08,
+        "input_cost_per_token": 2.5e-07,
+        "input_cost_per_token_priority": 4.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.5e-06,
+        "output_cost_per_token_priority": 2.7e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-3.5-flash-lite": {
+        "cache_read_input_token_cost": 3e-08,
+        "cache_read_input_token_cost_priority": 5.4e-08,
+        "input_cost_per_token": 3e-07,
+        "input_cost_per_token_priority": 5.4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "output_cost_per_token_priority": 4.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-3.5-flash-lite": {
+        "cache_read_input_token_cost": 3e-08,
+        "cache_read_input_token_cost_priority": 5.4e-08,
+        "input_cost_per_token": 3e-07,
+        "input_cost_per_token_priority": 5.4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "output_cost_per_token_priority": 4.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-3.5-flash": {
+        "cache_read_input_token_cost": 1.5e-07,
+        "cache_read_input_token_cost_priority": 2.7e-07,
+        "input_cost_per_token": 1.5e-06,
+        "input_cost_per_token_priority": 2.7e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 9e-06,
+        "output_cost_per_token_priority": 1.62e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-3.5-flash": {
+        "cache_read_input_token_cost": 1.5e-07,
+        "cache_read_input_token_cost_priority": 2.7e-07,
+        "input_cost_per_token": 1.5e-06,
+        "input_cost_per_token_priority": 2.7e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 9e-06,
+        "output_cost_per_token_priority": 1.62e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-3.6-flash": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 2.7e-07,
+        "input_cost_per_token": 7.5e-07,
+        "input_cost_per_token_priority": 2.7e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3.75e-06,
+        "output_cost_per_token_priority": 1.35e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-3.6-flash": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 2.7e-07,
+        "input_cost_per_token": 7.5e-07,
+        "input_cost_per_token_priority": 2.7e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3.75e-06,
+        "output_cost_per_token_priority": 1.35e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-3.7-flash": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 1.35e-07,
+        "input_cost_per_token": 7.5e-07,
+        "input_cost_per_token_priority": 1.35e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3.75e-06,
+        "output_cost_per_token_priority": 6.75e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-3.7-flash": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 1.35e-07,
+        "input_cost_per_token": 7.5e-07,
+        "input_cost_per_token_priority": 1.35e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3.75e-06,
+        "output_cost_per_token_priority": 6.75e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-3.8-flash": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 1.35e-07,
+        "input_cost_per_token": 7.5e-07,
+        "input_cost_per_token_priority": 1.35e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3.75e-06,
+        "output_cost_per_token_priority": 6.75e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-3.8-flash": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 1.35e-07,
+        "input_cost_per_token": 7.5e-07,
+        "input_cost_per_token_priority": 1.35e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3.75e-06,
+        "output_cost_per_token_priority": 6.75e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-3.1-pro-preview": {
+        "cache_read_input_token_cost": 4e-07,
+        "cache_read_input_token_cost_priority": 7.2e-07,
+        "input_cost_per_token": 4e-06,
+        "input_cost_per_token_priority": 7.2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.8e-05,
+        "output_cost_per_token_priority": 3.24e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-3.1-pro-preview": {
+        "cache_read_input_token_cost": 4e-07,
+        "cache_read_input_token_cost_priority": 7.2e-07,
+        "input_cost_per_token": 4e-06,
+        "input_cost_per_token_priority": 7.2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.8e-05,
+        "output_cost_per_token_priority": 3.24e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-4-argon": {
+        "cache_read_input_token_cost": 1e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-4-argon": {
+        "cache_read_input_token_cost": 1e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-4-hydrogen": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "input_cost_per_token": 1.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T18:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 7.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-4-hydrogen": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "input_cost_per_token": 1.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T18:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 7.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemini-4-neon": {
+        "cache_read_input_token_cost": 1.5e-07,
+        "input_cost_per_token": 3e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-18T21:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.5e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/google/gemini-4-neon": {
+        "cache_read_input_token_cost": 1.5e-07,
+        "input_cost_per_token": 3e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-18T21:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.5e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/moonshotai/kimi-k2-instruct": {
+        "input_cost_per_token": 6e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/baseten/moonshotai/kimi-k2-instruct": {
+        "input_cost_per_token": 6e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/moonshotai/kimi-k2.5": {
+        "cache_read_input_token_cost": 1.2e-07,
+        "input_cost_per_token": 6e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/baseten/moonshotai/kimi-k2.5": {
+        "cache_read_input_token_cost": 1.2e-07,
+        "input_cost_per_token": 6e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/moonshotai/kimi-k2.6": {
+        "input_cost_per_token": 9.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "vercel",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/vercel/moonshotai/kimi-k2.6": {
+        "input_cost_per_token": 9.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "vercel",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-4.1": {
+        "cache_read_input_token_cost": 5e-07,
+        "cache_read_input_token_cost_priority": 8.75e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 3.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 8e-06,
+        "output_cost_per_token_priority": 1.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-4.1": {
+        "cache_read_input_token_cost": 5e-07,
+        "cache_read_input_token_cost_priority": 8.75e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 3.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 8e-06,
+        "output_cost_per_token_priority": 1.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-4.1": {
+        "cache_read_input_token_cost": 5e-07,
+        "cache_read_input_token_cost_priority": 8.75e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 3.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 8e-06,
+        "output_cost_per_token_priority": 1.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
     "livekit/openai/gpt-4.1-mini": {
+        "cache_read_input_token_cost": 1e-07,
+        "cache_read_input_token_cost_priority": 1.75e-07,
+        "input_cost_per_token": 4e-07,
+        "input_cost_per_token_priority": 7e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.6e-06,
+        "output_cost_per_token_priority": 2.8e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-4.1-mini": {
         "cache_read_input_token_cost": 1e-07,
         "input_cost_per_token": 4e-07,
         "litellm_provider": "livekit",
-        "max_input_tokens": 1047576,
-        "max_output_tokens": 32768,
-        "max_tokens": 32768,
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
         "mode": "chat",
         "output_cost_per_token": 1.6e-06,
         "source": "https://livekit.com/pricing/inference",
         "supports_function_calling": true,
-        "supports_parallel_function_calling": true,
-        "supports_prompt_caching": true,
-        "supports_response_schema": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-4.1-mini": {
+        "cache_read_input_token_cost": 1e-07,
+        "cache_read_input_token_cost_priority": 1.75e-07,
+        "input_cost_per_token": 4e-07,
+        "input_cost_per_token_priority": 7e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.6e-06,
+        "output_cost_per_token_priority": 2.8e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-4.1-nano": {
+        "cache_read_input_token_cost": 2.5e-08,
+        "cache_read_input_token_cost_priority": 5e-08,
+        "input_cost_per_token": 1e-07,
+        "input_cost_per_token_priority": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "output_cost_per_token_priority": 8e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-4.1-nano": {
+        "cache_read_input_token_cost": 3e-08,
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-4.1-nano": {
+        "cache_read_input_token_cost": 2.5e-08,
+        "cache_read_input_token_cost_priority": 5e-08,
+        "input_cost_per_token": 1e-07,
+        "input_cost_per_token_priority": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "output_cost_per_token_priority": 8e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-4o": {
+        "cache_read_input_token_cost": 1.25e-06,
+        "cache_read_input_token_cost_priority": 2.125e-06,
+        "input_cost_per_token": 2.5e-06,
+        "input_cost_per_token_priority": 4.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 1.7e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-4o": {
+        "cache_read_input_token_cost": 1.25e-06,
+        "input_cost_per_token": 2.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-4o": {
+        "cache_read_input_token_cost": 1.25e-06,
+        "cache_read_input_token_cost_priority": 2.125e-06,
+        "input_cost_per_token": 2.5e-06,
+        "input_cost_per_token_priority": 4.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 1.7e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-4o-mini": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 1.25e-07,
+        "input_cost_per_token": 1.5e-07,
+        "input_cost_per_token_priority": 2.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-07,
+        "output_cost_per_token_priority": 1e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-4o-mini": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "input_cost_per_token": 1.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-4o-mini": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 1.25e-07,
+        "input_cost_per_token": 1.5e-07,
+        "input_cost_per_token_priority": 2.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-07,
+        "output_cost_per_token_priority": 1e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5": {
+        "cache_read_input_token_cost": 1.25e-07,
+        "cache_read_input_token_cost_priority": 2.5e-07,
+        "input_cost_per_token": 1.25e-06,
+        "input_cost_per_token_priority": 2.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5": {
+        "cache_read_input_token_cost": 1.3e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5": {
+        "cache_read_input_token_cost": 1.25e-07,
+        "cache_read_input_token_cost_priority": 2.5e-07,
+        "input_cost_per_token": 1.25e-06,
+        "input_cost_per_token_priority": 2.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5-mini": {
+        "cache_read_input_token_cost": 2.5e-08,
+        "cache_read_input_token_cost_priority": 4.5e-08,
+        "input_cost_per_token": 2.5e-07,
+        "input_cost_per_token_priority": 4.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2e-06,
+        "output_cost_per_token_priority": 3.6e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5-mini": {
+        "cache_read_input_token_cost": 3e-08,
+        "input_cost_per_token": 2.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5-mini": {
+        "cache_read_input_token_cost": 2.5e-08,
+        "cache_read_input_token_cost_priority": 4.5e-08,
+        "input_cost_per_token": 2.5e-07,
+        "input_cost_per_token_priority": 4.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2e-06,
+        "output_cost_per_token_priority": 3.6e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5-nano": {
+        "cache_read_input_token_cost": 5e-09,
+        "input_cost_per_token": 5e-08,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5-nano": {
+        "cache_read_input_token_cost": 1e-08,
+        "input_cost_per_token": 5e-08,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5-nano": {
+        "cache_read_input_token_cost": 5e-09,
+        "input_cost_per_token": 5e-08,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.1": {
+        "cache_read_input_token_cost": 1.25e-07,
+        "cache_read_input_token_cost_priority": 2.5e-07,
+        "input_cost_per_token": 1.25e-06,
+        "input_cost_per_token_priority": 2.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.1": {
+        "cache_read_input_token_cost": 1.3e-07,
+        "cache_read_input_token_cost_priority": 2.5e-07,
+        "input_cost_per_token": 1.25e-06,
+        "input_cost_per_token_priority": 2.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.1": {
+        "cache_read_input_token_cost": 1.25e-07,
+        "cache_read_input_token_cost_priority": 2.5e-07,
+        "input_cost_per_token": 1.25e-06,
+        "input_cost_per_token_priority": 2.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.1-chat-latest": {
+        "cache_read_input_token_cost": 1.25e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.1-chat-latest": {
+        "cache_read_input_token_cost": 1.3e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.1-chat-latest": {
+        "cache_read_input_token_cost": 1.25e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.2": {
+        "cache_read_input_token_cost": 1.75e-07,
+        "cache_read_input_token_cost_priority": 3.5e-07,
+        "input_cost_per_token": 1.75e-06,
+        "input_cost_per_token_priority": 3.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.4e-05,
+        "output_cost_per_token_priority": 2.8e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.2": {
+        "cache_read_input_token_cost": 1.8e-07,
+        "cache_read_input_token_cost_priority": 3.5e-07,
+        "input_cost_per_token": 1.75e-06,
+        "input_cost_per_token_priority": 3.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.4e-05,
+        "output_cost_per_token_priority": 2.8e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.2": {
+        "cache_read_input_token_cost": 1.75e-07,
+        "cache_read_input_token_cost_priority": 3.5e-07,
+        "input_cost_per_token": 1.75e-06,
+        "input_cost_per_token_priority": 3.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.4e-05,
+        "output_cost_per_token_priority": 2.8e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.2-chat-latest": {
+        "cache_read_input_token_cost": 1.75e-07,
+        "input_cost_per_token": 1.75e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.2-chat-latest": {
+        "cache_read_input_token_cost": 1.8e-07,
+        "input_cost_per_token": 1.75e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.2-chat-latest": {
+        "cache_read_input_token_cost": 1.75e-07,
+        "input_cost_per_token": 1.75e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.3-chat-latest": {
+        "cache_read_input_token_cost": 1.75e-07,
+        "input_cost_per_token": 1.75e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.3-chat-latest": {
+        "cache_read_input_token_cost": 1.75e-07,
+        "input_cost_per_token": 1.75e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.3-chat-latest": {
+        "cache_read_input_token_cost": 1.75e-07,
+        "input_cost_per_token": 1.75e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.4": {
+        "cache_read_input_token_cost": 5e-07,
+        "cache_read_input_token_cost_priority": 5e-07,
+        "input_cost_per_token": 5e-06,
+        "input_cost_per_token_priority": 5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.25e-05,
+        "output_cost_per_token_priority": 3e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.4": {
+        "cache_read_input_token_cost": 5e-07,
+        "cache_read_input_token_cost_priority": 5e-07,
+        "input_cost_per_token": 5e-06,
+        "input_cost_per_token_priority": 5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.25e-05,
+        "output_cost_per_token_priority": 3e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.4": {
+        "cache_read_input_token_cost": 5e-07,
+        "cache_read_input_token_cost_priority": 5e-07,
+        "input_cost_per_token": 5e-06,
+        "input_cost_per_token_priority": 5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.25e-05,
+        "output_cost_per_token_priority": 3e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.4-mini": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 1.5e-07,
+        "input_cost_per_token": 7.5e-07,
+        "input_cost_per_token_priority": 1.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4.5e-06,
+        "output_cost_per_token_priority": 9e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.4-mini": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 1.5e-07,
+        "input_cost_per_token": 7.5e-07,
+        "input_cost_per_token_priority": 1.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4.5e-06,
+        "output_cost_per_token_priority": 9e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.4-mini": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "cache_read_input_token_cost_priority": 1.5e-07,
+        "input_cost_per_token": 7.5e-07,
+        "input_cost_per_token_priority": 1.5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4.5e-06,
+        "output_cost_per_token_priority": 9e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.4-nano": {
+        "cache_read_input_token_cost": 2e-08,
+        "input_cost_per_token": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.25e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.4-nano": {
+        "cache_read_input_token_cost": 2e-08,
+        "input_cost_per_token": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.25e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.4-nano": {
+        "cache_read_input_token_cost": 2e-08,
+        "input_cost_per_token": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.25e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.5": {
+        "cache_read_input_token_cost": 1e-06,
+        "cache_read_input_token_cost_priority": 1.25e-06,
+        "input_cost_per_token": 1e-05,
+        "input_cost_per_token_priority": 1.25e-05,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4.5e-05,
+        "output_cost_per_token_priority": 7.5e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.5": {
+        "cache_read_input_token_cost": 1e-06,
+        "input_cost_per_token": 1e-05,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4.5e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.5": {
+        "cache_read_input_token_cost": 1e-06,
+        "cache_read_input_token_cost_priority": 1.25e-06,
+        "input_cost_per_token": 1e-05,
+        "input_cost_per_token_priority": 1.25e-05,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 4.5e-05,
+        "output_cost_per_token_priority": 7.5e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.6-sol": {
+        "cache_creation_input_token_cost": 5e-06,
+        "cache_read_input_token_cost": 4e-07,
+        "cache_read_input_token_cost_priority": 8e-07,
+        "input_cost_per_token": 4e-06,
+        "input_cost_per_token_priority": 8e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2e-05,
+        "output_cost_per_token_priority": 4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.6-sol": {
+        "cache_creation_input_token_cost": 5e-06,
+        "cache_read_input_token_cost": 4e-07,
+        "cache_read_input_token_cost_priority": 8e-07,
+        "input_cost_per_token": 4e-06,
+        "input_cost_per_token_priority": 8e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2e-05,
+        "output_cost_per_token_priority": 4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.6-sol": {
+        "cache_creation_input_token_cost": 5e-06,
+        "cache_read_input_token_cost": 4e-07,
+        "cache_read_input_token_cost_priority": 8e-07,
+        "input_cost_per_token": 4e-06,
+        "input_cost_per_token_priority": 8e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2e-05,
+        "output_cost_per_token_priority": 4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.6-terra": {
+        "cache_creation_input_token_cost": 2.5e-06,
+        "cache_read_input_token_cost": 2e-07,
+        "cache_read_input_token_cost_priority": 4e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-05,
+        "output_cost_per_token_priority": 2.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.6-terra": {
+        "cache_creation_input_token_cost": 2.5e-06,
+        "cache_read_input_token_cost": 2e-07,
+        "cache_read_input_token_cost_priority": 4e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-05,
+        "output_cost_per_token_priority": 2.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.6-terra": {
+        "cache_creation_input_token_cost": 2.5e-06,
+        "cache_read_input_token_cost": 2e-07,
+        "cache_read_input_token_cost_priority": 4e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-05,
+        "output_cost_per_token_priority": 2.4e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-5.6-luna": {
+        "cache_creation_input_token_cost": 2.5e-07,
+        "cache_read_input_token_cost": 2e-08,
+        "cache_read_input_token_cost_priority": 4e-08,
+        "input_cost_per_token": 2e-07,
+        "input_cost_per_token_priority": 4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "output_cost_per_token_priority": 2.4e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-5.6-luna": {
+        "cache_creation_input_token_cost": 2.5e-07,
+        "cache_read_input_token_cost": 2e-08,
+        "cache_read_input_token_cost_priority": 4e-08,
+        "input_cost_per_token": 2e-07,
+        "input_cost_per_token_priority": 4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "output_cost_per_token_priority": 2.4e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-5.6-luna": {
+        "cache_creation_input_token_cost": 2.5e-07,
+        "cache_read_input_token_cost": 2e-08,
+        "cache_read_input_token_cost_priority": 4e-08,
+        "input_cost_per_token": 2e-07,
+        "input_cost_per_token_priority": 4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "output_cost_per_token_priority": 2.4e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-6-sol": {
+        "cache_creation_input_token_cost": 2.5e-06,
+        "cache_read_input_token_cost": 2e-07,
+        "cache_read_input_token_cost_priority": 4e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-6-sol": {
+        "cache_creation_input_token_cost": 2.5e-06,
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-6-sol": {
+        "cache_creation_input_token_cost": 2.5e-06,
+        "cache_read_input_token_cost": 2e-07,
+        "cache_read_input_token_cost_priority": 4e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-6-luna": {
+        "cache_creation_input_token_cost": 1.25e-07,
+        "cache_read_input_token_cost": 1e-08,
+        "cache_read_input_token_cost_priority": 2e-08,
+        "input_cost_per_token": 1e-07,
+        "input_cost_per_token_priority": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-07,
+        "output_cost_per_token_priority": 1e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-6-luna": {
+        "cache_creation_input_token_cost": 1.25e-07,
+        "cache_read_input_token_cost": 1e-08,
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-6-luna": {
+        "cache_creation_input_token_cost": 1.25e-07,
+        "cache_read_input_token_cost": 1e-08,
+        "cache_read_input_token_cost_priority": 2e-08,
+        "input_cost_per_token": 1e-07,
+        "input_cost_per_token_priority": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-07,
+        "output_cost_per_token_priority": 1e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-6.1-sol": {
+        "cache_creation_input_token_cost": 2.5e-06,
+        "cache_read_input_token_cost": 1e-07,
+        "cache_read_input_token_cost_priority": 2e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/gpt-6.1-sol": {
+        "cache_creation_input_token_cost": 2.5e-06,
+        "cache_read_input_token_cost": 1e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-6.1-sol": {
+        "cache_creation_input_token_cost": 2.5e-06,
+        "cache_read_input_token_cost": 1e-07,
+        "cache_read_input_token_cost_priority": 2e-07,
+        "input_cost_per_token": 2e-06,
+        "input_cost_per_token_priority": 4e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1e-05,
+        "output_cost_per_token_priority": 2e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-6.1-terra": {
+        "cache_creation_input_token_cost": 1.25e-06,
+        "cache_read_input_token_cost": 5e-08,
+        "input_cost_per_token": 1e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/gpt-6.1-terra": {
+        "cache_creation_input_token_cost": 1.25e-06,
+        "cache_read_input_token_cost": 5e-08,
+        "input_cost_per_token": 1e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-6-luna-decisions": {
+        "cache_creation_input_token_cost": 1.25e-07,
+        "cache_read_input_token_cost": 1e-08,
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 0.0,
+        "source": "https://livekit.com/pricing/inference"
+    },
+    "livekit/openai/openai/gpt-6-luna-decisions": {
+        "cache_creation_input_token_cost": 1.25e-07,
+        "cache_read_input_token_cost": 1e-08,
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 0.0,
+        "source": "https://livekit.com/pricing/inference"
+    },
+    "livekit/microsoft/decision-1": {
+        "input_cost_per_token": 4.2e-08,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 0.0,
+        "source": "https://livekit.com/pricing/inference"
+    },
+    "livekit/azure/microsoft/decision-1": {
+        "input_cost_per_token": 4.2e-08,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 0.0,
+        "source": "https://livekit.com/pricing/inference"
+    },
+    "livekit/google/gemini-decision-1": {
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 0.0,
+        "source": "https://livekit.com/pricing/inference"
+    },
+    "livekit/google/google/gemini-decision-1": {
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "google",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 0.0,
+        "source": "https://livekit.com/pricing/inference"
+    },
+    "livekit/openai/chat-latest": {
+        "cache_read_input_token_cost": 5e-07,
+        "input_cost_per_token": 5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/azure/openai/chat-latest": {
+        "cache_read_input_token_cost": 5e-07,
+        "input_cost_per_token": 5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "azure",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/openai/chat-latest": {
+        "cache_read_input_token_cost": 5e-07,
+        "input_cost_per_token": 5e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "openai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 3e-05,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/openai/gpt-oss-120b": {
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/baseten/openai/gpt-oss-120b": {
+        "input_cost_per_token": 1e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "baseten",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/groq/openai/gpt-oss-120b": {
+        "cache_read_input_token_cost": 7.5e-08,
+        "input_cost_per_token": 1.5e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "groq",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/grok-4-1-fast-non-reasoning": {
+        "input_cost_per_token": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/xai/grok-4-1-fast-non-reasoning": {
+        "input_cost_per_token": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/grok-4-1-fast-reasoning": {
+        "input_cost_per_token": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/xai/grok-4-1-fast-reasoning": {
+        "input_cost_per_token": 2e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 5e-07,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/grok-4.20-0309-non-reasoning": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/xai/grok-4.20-0309-non-reasoning": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/grok-4.20-0309-reasoning": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/xai/grok-4.20-0309-reasoning": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/grok-4.20-multi-agent-0309": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/xai/grok-4.20-multi-agent-0309": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/grok-4.3": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/xai/grok-4.3": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 1.25e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 2.5e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/grok-4.5": {
+        "cache_read_input_token_cost": 3e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/xai/grok-4.5": {
+        "cache_read_input_token_cost": 3e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/grok-4.6": {
+        "cache_read_input_token_cost": 5e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/xai/grok-4.6": {
+        "cache_read_input_token_cost": 5e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/grok-4.7": {
+        "cache_read_input_token_cost": 5e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/xai/xai/grok-4.7": {
+        "cache_read_input_token_cost": 5e-07,
+        "input_cost_per_token": 2e-06,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "xai",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 6e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_reasoning": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/google/gemma-4-31b-it": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "livekit",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/livekit/google/gemma-4-31b-it": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "livekit",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/vercel/gemma-4-31b-it": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "vercel",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
+        "supports_system_messages": true,
+        "supports_tool_choice": true
+    },
+    "livekit/vercel/vercel/gemma-4-31b-it": {
+        "cache_read_input_token_cost": 2e-07,
+        "input_cost_per_token": 4e-07,
+        "litellm_provider": "livekit",
+        "metadata": {
+            "inference_provider": "vercel",
+            "pricing_as_of": "2026-11-12T00:00:00Z"
+        },
+        "mode": "chat",
+        "output_cost_per_token": 1.2e-06,
+        "source": "https://livekit.com/pricing/inference",
+        "supports_function_calling": true,
         "supports_system_messages": true,
         "supports_tool_choice": true
     }
